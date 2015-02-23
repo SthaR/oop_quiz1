@@ -1,7 +1,7 @@
 /*
  Program: Question 1 from quiz 1.
- Name   : Milan Lamichhane
- Roll   :
+ Name   : Ruby Shrestha
+ Roll   : 0341
  Output : 8
 */
 
